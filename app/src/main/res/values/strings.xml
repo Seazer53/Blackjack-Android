@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="background_of_the_card">background of the card</string>
+    <string name="hit">HIT</string>
+    <string name="stand">STAND</string>
+    <string name="play">PLAY</string>
+    <string name="bet">BET</string>
+    <string name="you_lost">YOU LOST!</string>
+    <string name="you_win">YOU WIN!</string>
+    <string name="draw">DRAW! BETS RETURN</string>
+</resources>
